@@ -66,8 +66,8 @@
         "url": "https://github.com/0xnicholasy/claude-mod-collapse-tools.git",
         "path": ".claude/skills/collapse-tools"
       },
-      "description": "Claude Fold: Draws each tool call as one line, [+] Name  arg, with the name in a color you can change. Click a row to expand it, or run /collapse-tools to toggle all.",
-      "version": "0.2.1",
+      "description": "Collapses each tool call to one clickable line in a color you pick, showing the model's own description of the call where it has one.",
+      "version": "0.3.0",
       "author": {
         "name": "0xnicholasy",
         "url": "https://github.com/0xnicholasy"
