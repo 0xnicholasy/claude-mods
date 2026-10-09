@@ -90,3 +90,4 @@ Create these files in the new repo:
 
 - `claude-mod-agents-rpg`: Agents Office pane, shows the session's agents as pixel characters.
 - `claude-mod-todo-list`: Todo pane, tracks Claude's TodoWrite/Task list and nudges to create one for non-trivial tasks.
+- `claude-mod-collapse-tools`: collapses each tool-call row to one line; click a row or run `/collapse-tools` to expand.
