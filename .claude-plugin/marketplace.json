@@ -1,10 +1,12 @@
 {
   "name": "claude-mods",
   "owner": {
-    "name": "0xnicholasy"
+    "name": "0xnicholasy",
+    "url": "https://github.com/0xnicholasy"
   },
   "metadata": {
-    "description": "Claude Code mods by 0xnicholasy, each hosted in its own repo."
+    "description": "Claude Code mods by 0xnicholasy, each hosted in its own repo.",
+    "version": "1.0.0"
   },
   "plugins": [
     {
@@ -15,7 +17,21 @@
         "path": ".claude/skills/agents-office"
       },
       "description": "A pane that shows the session's agents as pixel characters in an office.",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "author": {
+        "name": "0xnicholasy",
+        "url": "https://github.com/0xnicholasy"
+      },
+      "homepage": "https://github.com/0xnicholasy/claude-mod-agents-rpg",
+      "repository": "https://github.com/0xnicholasy/claude-mod-agents-rpg",
+      "keywords": [
+        "agents",
+        "pane",
+        "pixel-art",
+        "office",
+        "visualization"
+      ],
+      "category": "ui"
     },
     {
       "name": "todo-list",
@@ -25,7 +41,22 @@
         "path": ".claude/skills/todo-list"
       },
       "description": "Plan trees written by Claude through a plan tool, shown in a pane and status line with live activity.",
-      "version": "0.3.1"
+      "version": "0.3.1",
+      "author": {
+        "name": "0xnicholasy",
+        "url": "https://github.com/0xnicholasy"
+      },
+      "homepage": "https://github.com/0xnicholasy/claude-mod-todo-list",
+      "repository": "https://github.com/0xnicholasy/claude-mod-todo-list",
+      "keywords": [
+        "plan",
+        "todo",
+        "tasks",
+        "pane",
+        "status-line"
+      ],
+      "category": "productivity",
+      "license": "MIT"
     },
     {
       "name": "collapse-tools",
@@ -35,7 +66,21 @@
         "path": ".claude/skills/collapse-tools"
       },
       "description": "Draws each tool call as one line, [+] Name  arg, with the name in a muted color you can change. Click a row to expand it, or run /collapse-tools to toggle all.",
-      "version": "0.2.0"
+      "version": "0.2.0",
+      "author": {
+        "name": "0xnicholasy",
+        "url": "https://github.com/0xnicholasy"
+      },
+      "homepage": "https://github.com/0xnicholasy/claude-mod-collapse-tools",
+      "repository": "https://github.com/0xnicholasy/claude-mod-collapse-tools",
+      "keywords": [
+        "tool-calls",
+        "transcript",
+        "collapse",
+        "compact"
+      ],
+      "category": "ui",
+      "license": "MIT"
     }
   ]
 }
