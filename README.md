@@ -66,7 +66,7 @@ Repo: [0xnicholasy/claude-mod-todo-list](https://github.com/0xnicholasy/claude-m
 
 ### collapse-tools
 
-Version 0.2.0. Draws each tool call in the transcript as one line, `[+] Name  arg`. Click a row to expand it, or run `/collapse-tools` to toggle all calls. `/collapse-tools color <name|#hex|reset>` sets the color of finished calls.
+Version 0.2.1. Draws each tool call in the transcript as one line, `[+] Name  arg`. Click a row to expand it, or run `/collapse-tools` to toggle all calls. `/collapse-tools color <name|#hex|reset>` sets the color of finished calls.
 
 ```
 /plugin install collapse-tools@claude-mods
