@@ -34,8 +34,8 @@
         "url": "https://github.com/0xnicholasy/claude-mod-collapse-tools.git",
         "path": ".claude/skills/collapse-tools"
       },
-      "description": "Collapses every tool-call row in the transcript to one line; click a line to expand it, or run /collapse-tools to toggle all.",
-      "version": "0.1.0"
+      "description": "Draws each tool call as one line, [+] Name  arg, with the name in a muted color you can change. Click a row to expand it, or run /collapse-tools to toggle all.",
+      "version": "0.2.0"
     }
   ]
 }
