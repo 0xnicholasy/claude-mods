@@ -31,7 +31,8 @@
         "office",
         "visualization"
       ],
-      "category": "ui"
+      "category": "ui",
+      "license": "MIT"
     },
     {
       "name": "todo-list",

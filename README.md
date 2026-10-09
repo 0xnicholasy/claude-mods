@@ -50,6 +50,8 @@ Version 0.1.0. A pane that shows the session's agents as pixel characters in an 
 
 Repo: [0xnicholasy/claude-mod-agents-rpg](https://github.com/0xnicholasy/claude-mod-agents-rpg)
 
+![The office drawn as pixel art in a terminal that shows images](https://raw.githubusercontent.com/0xnicholasy/claude-mod-agents-rpg/main/docs/images/office-image-120x40.png)
+
 ### todo-list
 
 Version 0.3.1. Claude's task plan as a tree in a pane and the status line, with live activity. Claude writes the plan through a plan tool, and state-changing tools wait until a plan exists. Run `/todo` to reopen the pane, clear the plan, turn enforcement on or off, or set the accent color.
@@ -95,4 +97,4 @@ Use [this repo's issues](https://github.com/0xnicholasy/claude-mods/issues) for 
 
 ## License
 
-This repo is MIT licensed, see [LICENSE](LICENSE). Each plugin is licensed in its own repo. todo-list and collapse-tools are MIT. agents-office has no license file yet.
+This repo is MIT licensed, see [LICENSE](LICENSE). Each plugin is licensed in its own repo. All three plugins are MIT.
